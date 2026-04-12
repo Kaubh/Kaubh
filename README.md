@@ -100,6 +100,6 @@ Estudante de Engenharia de software - 1º Semestre.
 ## 📊 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junior089&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaubh&theme=tokyo-night"/>
 </div>
 
