@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Engenheiro+de+Software;Full+Stack+Developer;Automação+%7C+Data+Extraction+%7C+Cybersecurity;Construindo+sistemas+reais%2C+robustos+e+escaláveis" />
 
-![](https://komarev.com/ghpvc/?username=junior089&color=006bed&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Kaubh&color=006bed&style=for-the-badge)
 
 </div>
 
@@ -15,6 +15,7 @@
 Futuro Engenheiro de software Backend **Java**.
 Estudante de Engenharia de software - 1º Semestre.
 
+
 📍 Brasilia — disponível para trabalho remoto presencial ou híbrido.
 ---
 
@@ -22,8 +23,9 @@ Estudante de Engenharia de software - 1º Semestre.
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/-Java-111827?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/-Java-111827?style=for-the-badge&logo=Java)
 ![Spring](https://img.shields.io/badge/-Spring-111827?style=for-the-badge&logo=Spring)
+![JavaScript](https://img.shields.io/badge/-JavaScript-111827?style=for-the-badge&logo=javascript)
 
 </div>
 
@@ -87,11 +89,11 @@ Estudante de Engenharia de software - 1º Semestre.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=junior089&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kaubh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior089&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaubh&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 
-<img height="170em" src="https://streak-stats.demolab.com?user=junior089&theme=tokyonight&cache_seconds=86400"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=Kaubh&theme=tokyonight&cache_seconds=86400"/>
 
 </div>
 
