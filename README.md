@@ -22,8 +22,8 @@ Estudante de Engenharia de software - 1º Semestre.
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/-Java-111827?style=for-the-badge&logo=typescript)
-![Spring](https://img.shields.io/badge/-Spring-111827?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-111827?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-111827?style=for-the-badge&logo=Spring)
 
 </div>
 
